@@ -1,0 +1,5 @@
+python make_folders.py -d G:\ARGISL\dataset -n kumaran_sir
+python check_rec.py -in G:\ARGISL\dataset\kumaran_sir
+python full_split.py -in G:\ARGISL\dataset\kumaran_sir -out D:\ISL_project\dataset\kumaran_sir_p -m front
+python name_split.py -in G:\ARGISL\dataset\kumaran_sir -out D:\ISL_project\dataset\kumaran_sir_p -m front
+python crop_splits.py -sp D:\ISL_project\dataset\kumaran_sir_p\front -out D:\ISL_project\dataset\kumaran_sir_p\cropped
