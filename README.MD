@@ -37,7 +37,7 @@ To utilize the automatic annotation process remember to use three monitors-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/suvajit790/SL-data-collection-and-annotation.git
+   git clone https://github.com/suvajit-patra/sl-data-collection-and-annotation.git
    cd ISL-data-collection-and-annotation
    ```
 
