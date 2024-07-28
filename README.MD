@@ -32,6 +32,7 @@ To utilize the automatic annotation process remember to use three monitors-
 
 - Python 3.7 or higher
 - `tkinter`
+- MKVToolNix
 
 ### Steps
 
